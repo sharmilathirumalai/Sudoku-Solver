@@ -5,9 +5,11 @@ Solves n*n Grid where n>=3.
 
 ## Input
 
-9
+9 (grid size)
 
-123456789
+123456789 (list of symbols)
+
+Board Values
 
 .....9743
 
