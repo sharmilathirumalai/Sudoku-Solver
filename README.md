@@ -3,7 +3,7 @@
 Solves n*n Grid where n>=3.
 
 
-## Input
+### Input
 
 9 (grid size)
 
@@ -29,7 +29,7 @@ Board Values
 
 9724...5.
 
-## Restrictions
+### Restrictions
 
 * Only Grid with valid inputs will be allowed
 * '.' should not be given in symbols list
