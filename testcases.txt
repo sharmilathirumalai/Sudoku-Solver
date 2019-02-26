@@ -1,0 +1,20 @@
+Sudoku solver test cases
+
+Check for working cases
+
+  * Input grid with different value for 'n'
+  * Check with different types of characters ad input for symbol
+  * Check with empty grid
+  * Input a grid with a no values for particular sub grid
+  * Input a sudoku with multiple solution
+  * Test sudoku with easy, medium and hard level
+
+Check for invalid cases
+
+  * Checking with possible list of invalid inputs
+  * Duplicate in list of symbols
+  * Input a sudoku with no solution
+  * Input a grid that already has violations in rules
+  * Check with empty values
+  * Check with inconsistent column values
+  * Input column with varying size

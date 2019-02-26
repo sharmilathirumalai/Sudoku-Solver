@@ -4,7 +4,7 @@ import java.util.ArrayList;
 import java.util.Arrays;
 import java.util.Scanner;
 
-import suduko.handler;
+import sudoku.handler;
 
 public class Main {
 
