@@ -1,5 +1,5 @@
 ## Sudoku Solver
-Implemented a traditional approach of pencil-and paper [1] to solve trivial sudoku problems. Solves n*n Grid where n>=3.
+Implemented a traditional approach of pencil-and paper [1] to solve non-trivial sudoku problems. Solves n*n Grid where n>=3.
 
 ## Algorithm
 - In phase one, locked all  single values if any by intersecting row and columns possible values Starting with set that has lowest preemptive set.
